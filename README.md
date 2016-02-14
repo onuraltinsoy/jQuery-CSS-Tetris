@@ -3,7 +3,7 @@ Simple tetris with jquery (only css classes without canvas)
 ## Install
 **en**<br>
 Access your terminal and run<br>
-'''git clone https://github.com/onuraltinsoy/jQuery-CSS-Tetris.git'''<br>
+```git clone https://github.com/onuraltinsoy/jQuery-CSS-Tetris.git```<br>
 or<br>
 download all files<br>
 
@@ -18,15 +18,15 @@ tüm dosyaları indirin<br>
 Open file is name tetris.html with your web browser<br>
 or<br>
 if you are embed this your web page then using this code<br>
-'''
+```
 <script src="http://www.onuraltinsoy/jQuery-CSS-Tetris/jquerycsstetris.js"></script>
 <div id="jquerycsstetris"></div>
-'''<br>
+```<br>
 
 **tr**<br>
 Web tarayıcınızda tetris.html dosyasını açabilirsiniz<br>
 eğer kendi web sayfanızda oynatmak isterseniz aşağıdaki<br>
-'''
+```
 <script src="http://www.onuraltinsoy/jQuery-CSS-Tetris/jquerycsstetris.js"></script>
 <div id="jquerycsstetris"></div>
-'''
+```
