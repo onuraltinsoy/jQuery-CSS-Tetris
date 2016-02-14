@@ -9,7 +9,7 @@ download all files<br>
 
 **tr**<br>
 Terminalinizde aşağıdaki kodu koşturun<br>
-code(git clone https://github.com/onuraltinsoy/jQuery-CSS-Tetris.git)<br>
+```git clone https://github.com/onuraltinsoy/jQuery-CSS-Tetris.git)```<br>
 veya<br>
 tüm dosyaları indirin<br>
 
@@ -21,7 +21,8 @@ if you are embed this your web page then using this code<br>
 ```
 <script src="http://www.onuraltinsoy/jQuery-CSS-Tetris/jquerycsstetris.js"></script>
 <div id="jquerycsstetris"></div>
-```<br>
+```
+<br>
 
 **tr**<br>
 Web tarayıcınızda tetris.html dosyasını açabilirsiniz<br>
