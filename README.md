@@ -1,7 +1,7 @@
 # jQuery-CSS-Tetris
 Simple tetris with jquery (only css classes without canvas)
 ## Install
-** en
+**en**
 Access your terminal and run
 code(git clone https://github.com/onuraltinsoy/jQuery-CSS-Tetris.git)
 or
