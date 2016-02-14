@@ -21,8 +21,9 @@ Open file is name tetris.html with your web browser<br>
 or<br>
 if you are embed this your web page then using this code<br>
 ```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script src="http://www.onuraltinsoy/jQuery-CSS-Tetris/jquerycsstetris.js"></script>
-<div id="jquerycsstetris"></div>
+<div id="jquerycsstetris" cell-size="10" grid="true" bg="#838C91"></div>
 ```
 <br>
 
@@ -30,6 +31,7 @@ if you are embed this your web page then using this code<br>
 Web tarayıcınızda tetris.html dosyasını açabilirsiniz<br>
 eğer kendi web sayfanızda oynatmak isterseniz aşağıdaki<br>
 ```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script src="http://www.onuraltinsoy/jQuery-CSS-Tetris/jquerycsstetris.js"></script>
-<div id="jquerycsstetris"></div>
+<div id="jquerycsstetris" cell-size="10" grid="true" bg="#838C91"></div>
 ```
